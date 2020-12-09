@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "firebot",
   "scripts": {
-    "start": "node firebot"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
